@@ -1,0 +1,43 @@
+
+.title{
+    background-color: rgba(0, 0, 0, 0.575);
+    color: white;
+}
+
+.model{
+    height: 20rem;
+    width: 20rem;
+    object-fit: contain;
+}
+
+#hinhvuong {
+    position: absolute;
+    width: 36%;
+    height: 37%;
+    background: rgba(238, 111, 65, 0.555);
+    left: 43px;
+    bottom: -12px;
+    padding:5px 5px;
+}
+
+.intro h4{
+    color: purple;
+    text-transform: uppercase;
+}
+
+.intro p{
+    color: white;
+    font-weight: 500 ;
+}
+
+.wearGlass{
+    position: relative;
+}
+
+.glassModel{
+    position: absolute;
+    width: 150px;
+    top: 82px;
+    left: 100px;
+}
+
