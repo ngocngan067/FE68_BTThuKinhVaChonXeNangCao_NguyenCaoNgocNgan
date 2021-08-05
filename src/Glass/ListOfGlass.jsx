@@ -21,11 +21,12 @@ export default class ListOfGlass extends Component {
                         <div class="row justify-content-center">
                             <div class="col-4 wearGlass">
                                 <img src="./image/model.jpg" className="model" alt="" />
-                                <img src={`./image/${imgName}`} className="glassModel" alt="" /> 
+                                <img src="./image/v1.png" className="glassModel" alt="" /> 
                             </div>
                             <div class="col-4"></div>
                             <div class="col-4">
                                 <img src="./image/model.jpg" className="model" alt="" />
+                                <img src={`./image/${imgName}`} className="glassModel" alt="" /> 
                             </div>
                         </div>
                     </div>
